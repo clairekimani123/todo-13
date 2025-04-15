@@ -55,8 +55,10 @@ function App() {
       <h2>My todos</h2>
       <Todos todos={todos} setTodos={setTodos} />
       <Button />
+     
       <Button greeting="jambo" />
       <Button greeting="konichiwa" />
+      <button />
 
    </div>
   )
